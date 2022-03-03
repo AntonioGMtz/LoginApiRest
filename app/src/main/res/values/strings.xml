@@ -5,4 +5,5 @@
     <string name="hint_password">Password</string>
     <string name="main_type_login">Login</string>
     <string name="main_type_register">Registrar</string>
+    <string name="main_error_server">Error 400 en peticion</string>
 </resources>
